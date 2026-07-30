@@ -1,5 +1,5 @@
 {
-  "CurrentVersion": "1.0.1",
+  "CurrentVersion": "1.0.0",
   "Changelogs": [
     "Added forced updater",
     "Added API version logging in cmd prompt",
