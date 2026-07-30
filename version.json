@@ -3,7 +3,7 @@
   "Changelogs": [
     "Added forced updater",
     "Added API version logging in cmd prompt",
-    "Added Monaco keybinds"
+    "Added 2 monaco keybinds, inject and execute"
   ],
   "DownloadUrl": "https://use-fragment.lol/"
 }
