@@ -1,5 +1,9 @@
 {
-    "CurrentVersion": "1.0.1",
-    "Changelogs": "Added forced updater, Added bridge version logging, Added Monaco keybinds",
-    "DownloadUrl": "https://example.com/downloads/latest"
+  "CurrentVersion": "1.0.1",
+  "Changelogs": [
+    "Added forced updater",
+    "Added bridge version logging",
+    "Added Monaco keybinds"
+  ],
+  "DownloadUrl": "https://example.com/downloads/latest"
 }
