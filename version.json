@@ -1,7 +1,9 @@
 {
-  "CurrentVersion": "1.0.2",
+  "CurrentVersion": "1.0.3",
   "Changelogs": [
-    "New UI"
+    "Added file shortcuts in Settings for executor folders",
+    "Made inject and execute keybinds work across every page",
+    "Added a collapsible Workspace explorer with live folder contents and Monaco file editing"
   ],
-  "DownloadUrl": "https://www.mediafire.com/file/0t43120s8v04tpu/Fragment_1.0.2_x64-setup.exe/file"
+  "DownloadUrl": "https://www.mediafire.com/file/qzvulu94zeihhnf/Fragment_1.0.3_x64-setup.exe/file"
 }
