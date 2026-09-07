@@ -1,5 +1,5 @@
 {
-  "CurrentVersion": "1.0.3",
+  "CurrentVersion": "1.0.5",
   "Changelogs": [
     "Added file shortcuts in Settings for executor folders",
     "Made inject and execute keybinds work across every page",
