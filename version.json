@@ -1,9 +1,10 @@
 {
   "CurrentVersion": "1.0.3",
   "Changelogs": [
-    "Added file shortcuts in Settings for executor folders",
-    "Made inject and execute keybinds work across every page",
-    "Added a collapsible Workspace explorer with live folder contents and Monaco file editing"
+    "Overhauled the Home UI with tabs, focused sections, and sidebar links",
+    "Added UNC and sUNC testing tools with scripts, results, and Workspace actions",
+    "Added Fragment Velocity API status and update notifications",
+    "Fixed the first UI click not playing its sound when interface sounds are enabled"
   ],
-  "DownloadUrl": "https://www.mediafire.com/file/qzvulu94zeihhnf/Fragment_1.0.3_x64-setup.exe/file"
+  "DownloadUrl": "https://www.mediafire.com/file/hrmhl9tgancqhp0/Fragment_1.0.4_x64-setup.exe/file"
 }
