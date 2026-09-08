@@ -1,5 +1,5 @@
 {
-  "CurrentVersion": "1.0.3",
+  "CurrentVersion": "1.0.4",
   "Changelogs": [
     "Overhauled the Home UI with tabs, focused sections, and sidebar links",
     "Added UNC and sUNC testing tools with scripts, results, and Workspace actions",
