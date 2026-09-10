@@ -4,7 +4,8 @@
     "Overhauled the Home UI with tabs, focused sections, and sidebar links",
     "Added UNC and sUNC testing tools with scripts, results, and Workspace actions",
     "Added Fragment Velocity API status and update notifications",
-    "Fixed the first UI click not playing its sound when interface sounds are enabled"
+    "Fixed the first UI click not playing its sound when interface sounds are enabled",
+    "Added a force updater that checks GitHub for newer releases and prompts you to update"
   ],
   "DownloadUrl": "https://www.mediafire.com/file/164awes0zf2mxtw/Fragment_1.0.4_x64-setup.exe/file"
 }
