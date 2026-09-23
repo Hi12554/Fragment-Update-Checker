@@ -1,11 +1,12 @@
 {
-  "CurrentVersion": "1.0.4",
+  "CurrentVersion": "1.0.5",
   "Changelogs": [
-    "Overhauled the Home UI with tabs, focused sections, and sidebar links",
-    "Added UNC and sUNC testing tools with scripts, results, and Workspace actions",
-    "Added Fragment Velocity API status and update notifications",
-    "Fixed the first UI click not playing its sound when interface sounds are enabled",
-    "Added a force updater that checks GitHub for newer releases and prompts you to update"
+    "Added saved navigation settings for explorer side, app bar position, startup page, tab order, and tab label visibility",
+    "Added Recent Scripts with persistent history, search, reopen, and delete controls",
+    "Recent scripts now remain available after closing workspace tabs and are saved per user",
+    "Added custom styled startup page and navigation controls",
+    "Centered settings toggle knobs so they stay fixed in the track",
+    "Improved app version reporting across the frontend, update checker, Tauri metadata, and Rust backend"
   ],
-  "DownloadUrl": "https://www.mediafire.com/file/164awes0zf2mxtw/Fragment_1.0.4_x64-setup.exe/file"
+  "DownloadUrl": "https://www.mediafire.com/file/nbsypkucqtvb90h/Fragment_1.0.5_x64-setup.exe/file"
 }
