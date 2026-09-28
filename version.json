@@ -1,12 +1,9 @@
 {
-  "CurrentVersion": "1.0.5",
+  "CurrentVersion": "1.0.6",
   "Changelogs": [
-    "Added saved navigation settings for explorer side, app bar position, startup page, tab order, and tab label visibility",
-    "Added Recent Scripts with persistent history, search, reopen, and delete controls",
-    "Recent scripts now remain available after closing workspace tabs and are saved per user",
-    "Added custom styled startup page and navigation controls",
-    "Centered settings toggle knobs so they stay fixed in the track",
-    "Improved app version reporting across the frontend, update checker, Tauri metadata, and Rust backend"
+    "Added a Halloween theme",
+    "Added a Luau error checker",
+    "Added search to Settings."
   ],
-  "DownloadUrl": "https://www.mediafire.com/file/nbsypkucqtvb90h/Fragment_1.0.5_x64-setup.exe/file"
+  "DownloadUrl": "https://www.use-fragment.lol/download"
 }
